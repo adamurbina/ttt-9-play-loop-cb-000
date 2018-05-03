@@ -35,7 +35,7 @@ def turn(board)
   end
 end
 
-# Define your play method 
+# Define your play method
 
 def play(board)
     count = 0
